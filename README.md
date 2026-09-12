@@ -246,3 +246,6 @@ This repository serves as the official landing page for Auslogics Disk Defrag. T
 - 💬 **[Community](https://softyne.com/about-us/)**
 ---
 **Get the most recent version of Auslogics Disk Defrag today!**
+
+---
+**Last updated:** 2026-09-12 09:09:54 UTC
